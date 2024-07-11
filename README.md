@@ -10,7 +10,7 @@ The PMPP Book: [Programming Massively Parallel Processors: A Hands-on Approach](
 - [Video](https://youtu.be/LuhJEEJQgUM)
 - Date: 2024-01-13, Speaker: [Mark Saroufim](https://twitter.com/marksaroufim)
 - Notebook and slides in [lecture_001](./lecture_001/) folder
-
+ 
 ## Lecture 2: Recap Ch. 1-3 from the PMPP book
 
 - [Video](https://youtu.be/NQ-0D5Ti2dc)
